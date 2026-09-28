@@ -1,22 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123B5D,100:00D9FF&height=220&section=header&text=KUNJAN%20POKHREL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Kunjan Pokhrel Header"/>
-</p>
-
 <div align="center">
 
-# KUNJAN POKHREL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=220&section=header&text=KUNJAN%20POKHREL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20Aspiring%20Backend%20Engineer&descSize=18&descAlignY=58&descColor=ffffff" />
 
-### Student • Game Developer • Aspiring Backend Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+with+Python;Learning+DSA;Creating+Games+with+Pygame;Exploring+Backend+Development;Building+Projects+from+Scratch" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+with+Python;Learning+DSA;Creating+Games+with+Pygame;Exploring+Backend+Development;Building+Projects+from+Scratch" alt="Typing Animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/kunjannpokhrel?style=for-the-badge&logo=github&label=Followers&color=0B7285"/>
-<img src="https://img.shields.io/github/stars/kunjannpokhrel?style=for-the-badge&logo=github&label=Stars&color=0B7285"/>
-<img src="https://komarev.com/ghpvc/?username=kunjannpokhrel&style=for-the-badge&color=00A8CC" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/kunjannpokhrel?style=for-the-badge&label=Followers" /> <img src="https://img.shields.io/github/stars/kunjannpokhrel?style=for-the-badge&label=Stars" /> <img src="https://komarev.com/ghpvc/?username=kunjannpokhrel&style=for-the-badge&label=Profile%20Views" />
 
 </div>
 
@@ -25,7 +15,7 @@
 <table>
 <tr>
 
-<td width="60%" valign="middle">
+<td width="70%" valign="top">
 
 ## About Me
 
@@ -39,9 +29,9 @@ I'm a student focused on software development and programming.
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-<img src="https://github.com/kunjannpokhrel.png" width="260" alt="Kunjan Pokhrel"/>
+<img src="https://github.com/kunjannpokhrel.png" width="220" />
 
 </td>
 
@@ -52,17 +42,27 @@ I'm a student focused on software development and programming.
 
 ## Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&perline=10"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
+</p>
 
-<br><br>
+### Tools & Platforms
 
-<img src="https://img.shields.io/badge/Pygame-0B1F3A?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/APIs-0B1F3A?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/JSON-0B1F3A?style=for-the-badge&logo=json&logoColor=00D9FF"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" />
+</p>
 
-</div>
+### Currently Going Deeper On
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge" />
+</p>
 
 ---
 
@@ -70,10 +70,9 @@ I'm a student focused on software development and programming.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🎮 [Mini One Piece](https://github.com/kunjannpokhrel/Mini-One-Piece)
+### [Mini One Piece](https://github.com/kunjannpokhrel/Mini-One-Piece)
 
 A 2D platformer game built with Python and Pygame, inspired by THE ONE PIECE.
 
@@ -83,38 +82,35 @@ A 2D platformer game built with Python and Pygame, inspired by THE ONE PIECE.
 
 <td width="50%" valign="top">
 
-### 🃏 [Pokemon Cards](https://github.com/kunjannpokhrel/Pokemon-Cards)
+### [Pokemon Cards](https://github.com/kunjannpokhrel/Pokemon-Cards)
 
-A Python project that retrieves Pokemon information and artwork through the Pokemon API and generates Pokemon inspired cards. (custom btw)
+A Python project that retrieves Pokemon information and artwork through the Pokemon API and generates custom Pokemon-inspired cards.
 
 **Tech:** Python • APIs • JSON • Image Processing
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### 🐍 [Mini Python Projects](https://github.com/kunjannpokhrel/Mini-Python-Projects)
+### [Python Projects](https://github.com/kunjannpokhrel/Python-Projects)
 
-A collection of smaller Python projects.( simple stuff basically or maybe not)
+A collection of Python projects built while learning, experimenting, and improving problem-solving skills.
 
-**Tech:** Python • APIs • Automation
+**Tech:** Python • APIs • Automation • Problem Solving
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 More Projects Coming
+### More Projects Coming
 
-Continuously building, experimenting, and adding new projects. 
+Continuously building, experimenting, and adding new projects.
 
 **Next:** More Python projects • DSA • Game Development • Backend
 
 </td>
-
 </tr>
 </table>
 
@@ -122,15 +118,11 @@ Continuously building, experimenting, and adding new projects.
 
 ## What I'm Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/DSA-0B1F3A?style=for-the-badge&logo=leetcode&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Pygame-0B1F3A?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-
-</div>
-
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge" />
+</p>
 
 My current focus is strengthening programming fundamentals, learning **Data Structures and Algorithms**, and turning what I learn into real projects.
 
@@ -138,17 +130,13 @@ My current focus is strengthening programming fundamentals, learning **Data Stru
 
 ## Future Goals
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Backend%20Development-0B1F3A?style=for-the-badge&logo=server&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Game%20Development-0B1F3A?style=for-the-badge&logo=gamepad&logoColor=00D9FF"/>
-
-<br><br>
+<p align="center">
+<img src="https://img.shields.io/badge/Backend%20Development-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game%20Development-000000?style=for-the-badge" />
+</p>
 
 Building a strong foundation in programming and gradually moving toward
 **backend engineering** and **game development**.
-
-</div>
 
 ---
 
@@ -156,7 +144,7 @@ Building a strong foundation in programming and gradually moving toward
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kunjannpokhrel&hide_border=true&background=0B1F3A&ring=00D9FF&fire=00A8CC&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8AA4B8" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunjannpokhrel&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -166,7 +154,7 @@ Building a strong foundation in programming and gradually moving toward
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kunjannpokhrel/kunjannpokhrel/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/kunjannpokhrel/kunjannpokhrel/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -176,20 +164,22 @@ Building a strong foundation in programming and gradually moving toward
 
 <div align="center">
 
-<a href="https://github.com/kunjannpokhrel">
-  <img src="https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+<a href="mailto:kunjannpokhrel@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><a href="https://github.com/kunjannpokhrel">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### YEAH THTS THE END !! SEE YAA
+### YEAH THAT'S THE END !! SEE YAA
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=120&section=footer" />
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B5D,100:0B1F3A&height=120&section=footer" width="100%" alt="Footer"/>
-</p>
